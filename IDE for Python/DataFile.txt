@@ -1,0 +1,1 @@
+Background_Colour-120,20,20.Dark_Colour-120,20,20.DisplayInfo-1920,1080,60.Text_Colour-255,255,255
